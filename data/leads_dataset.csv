@@ -1,0 +1,100 @@
+Name,Title,Company,Person_Location,Company_HQ,Funding_Stage,Uses_InVitro_Tech,Open_to_NAMs,Recent_Publication,Publication_Topic,Email,LinkedIn
+Dr. Aarav Sharma,Director of Toxicology,BioPharmaX,Boston,Cambridge MA,Series B,Yes,Yes,Yes,Drug-Induced Liver Injury,aarav.sharma@biopharmax.com,https://linkedin.com/in/aaravsharma
+Dr. Vihaan Verma,Head of Preclinical Safety,OncoNova,Bay Area,Bay Area,Series A,Yes,Yes,No,,vihaan.verma@onconova.com,https://linkedin.com/in/vihaanverma
+Dr. Aditya Reddy,Senior Scientist,LiverTech,New York,Boston,Seed,Yes,No,Yes,Hepatic Spheroids,aditya.reddy@livertech.com,https://linkedin.com/in/adityareddy
+Dr. Rohan Patel,VP Preclinical Research,NeuroGen,Boston,Cambridge MA,Series C,Yes,Yes,Yes,3D Cell Culture,rohan.patel@neurogen.com,https://linkedin.com/in/rohanpatel
+Dr. Karan Iyer,Junior Scientist,EarlyBio,Remote (Texas),New York,No Funding,No,No,No,,karan.iyer@earlybio.com,https://linkedin.com/in/karaniyer
+Dr. Arjun Gupta,Principal Scientist,PharmaNext,Boston,Boston,Series B,Yes,Yes,Yes,Investigative Toxicology,arjun.gupta@pharmanext.com,https://linkedin.com/in/arjungupta
+Dr. Rahul Mehta,Senior Scientist,GenCell,Bay Area,Bay Area,Series A,Yes,No,Yes,Organ-on-Chip,rahul.mehta@gencell.com,https://linkedin.com/in/rahulmehta
+Dr. Siddharth Singh,Research Associate,UniHealth,London,London,Grant Funded,No,Yes,Yes,3D Cell Culture,siddharth.singh@unihealth.ac.uk,https://linkedin.com/in/siddharthsingh
+Dr. Ananya Sharma,Director of Safety Assessment,BioCore,Basel,Basel,Series B,Yes,Yes,Yes,Drug Safety Evaluation,ananya.sharma@biocore.ch,https://linkedin.com/in/ananyasharma
+Dr. Priya Verma,Postdoctoral Researcher,MedUni,Singapore,Singapore,Grant Funded,No,Yes,No,,priya.verma@meduni.edu.sg,https://linkedin.com/in/priyaverma
+Dr. Kavya Reddy,Senior Scientist,BioPharmaX,Boston,Cambridge MA,Series B,Yes,Yes,Yes,Hepatic Spheroids,kavya.reddy@biopharmax.com,https://linkedin.com/in/kavyareddy
+Dr. Isha Patel,Junior Scientist,EarlyBio,New York,New York,No Funding,No,No,No,,isha.patel@earlybio.com,https://linkedin.com/in/ishapatel
+Dr. Neha Iyer,Principal Scientist,PharmaNext,Boston,Boston,Series B,Yes,Yes,Yes,3D Cell Culture,neha.iyer@pharmanext.com,https://linkedin.com/in/nehaiyer
+Dr. Pooja Gupta,Senior Scientist,LiverTech,Bay Area,Boston,Series A,Yes,No,Yes,Drug-Induced Liver Injury,pooja.gupta@livertech.com,https://linkedin.com/in/poojagupta
+Dr. Aditi Mehta,Research Associate,UniHealth,London,London,Grant Funded,No,Yes,Yes,Organ-on-Chip,aditi.mehta@unihealth.ac.uk,https://linkedin.com/in/aditimehta
+Dr. Shreya Singh,Senior Scientist,NeuroGen,Boston,Cambridge MA,Series C,Yes,Yes,Yes,Investigative Toxicology,shreya.singh@neurogen.com,https://linkedin.com/in/shreyasingh
+Dr. Rakesh Kumar,Director of Toxicology,GenCell,Boston,Bay Area,Series B,Yes,Yes,Yes,Drug-Induced Liver Injury,rakesh.kumar@gencell.com,https://linkedin.com/in/rakeshkumar
+Dr. Sneha Nair,Senior Scientist,BioCore,Basel,Basel,Series B,Yes,No,Yes,3D Cell Culture,sneha.nair@biocore.ch,https://linkedin.com/in/snehanair
+Dr. Aman Joshi,Research Associate,UniHealth,London,London,Grant Funded,No,Yes,No,,aman.joshi@unihealth.ac.uk,https://linkedin.com/in/amanjoshi
+Dr. Mehul Shah,VP Preclinical Research,PharmaNext,Boston,Boston,Series C,Yes,Yes,Yes,Organ-on-Chip,mehul.shah@pharmanext.com,https://linkedin.com/in/mehulshah
+Dr. Nisha Malhotra,Principal Scientist,BioPharmaX,Bay Area,Cambridge MA,Series B,Yes,Yes,Yes,Hepatic Spheroids,nisha.malhotra@biopharmax.com,https://linkedin.com/in/nishamalhotra
+Dr. Varun Khanna,Senior Scientist,OncoNova,New York,Bay Area,Series A,Yes,No,Yes,Drug-Induced Liver Injury,varun.khanna@onconova.com,https://linkedin.com/in/varunkhanna
+Dr. Pankaj Mishra,Junior Scientist,EarlyBio,Remote (Texas),New York,No Funding,No,No,No,,pankaj.mishra@earlybio.com,https://linkedin.com/in/pankajmishra
+Dr. Suman Das,Director of Safety Assessment,LiverTech,Boston,Boston,Series B,Yes,Yes,Yes,Investigative Toxicology,suman.das@livertech.com,https://linkedin.com/in/sumandas
+Dr. Alok Bansal,Senior Scientist,GenCell,Bay Area,Bay Area,Series A,Yes,No,Yes,3D Cell Culture,alok.bansal@gencell.com,https://linkedin.com/in/alokbansal
+Dr. Ritu Jain,Research Associate,MedUni,Singapore,Singapore,Grant Funded,No,Yes,Yes,Organ-on-Chip,ritu.jain@meduni.edu.sg,https://linkedin.com/in/ritujain
+Dr. Mohit Agarwal,Principal Scientist,BioCore,Basel,Basel,Series B,Yes,Yes,Yes,Drug Safety Evaluation,mohit.agarwal@biocore.ch,https://linkedin.com/in/mohitagarwal
+Dr. Kavita Rao,Senior Scientist,NeuroGen,Boston,Cambridge MA,Series C,Yes,Yes,Yes,Hepatic Spheroids,kavita.rao@neurogen.com,https://linkedin.com/in/kavitar
+Dr. Deepak Yadav,Junior Scientist,EarlyBio,New York,New York,No Funding,No,No,No,,deepak.yadav@earlybio.com,https://linkedin.com/in/deepakyadav
+Dr. Monica Fernandes,Director of Toxicology,PharmaNext,Boston,Boston,Series B,Yes,Yes,Yes,Drug-Induced Liver Injury,monica.fernandes@pharmanext.com,https://linkedin.com/in/monicafernandes
+Dr. Sanjay Kulkarni,Senior Scientist,LiverTech,Bay Area,Boston,Series A,Yes,No,Yes,3D Cell Culture,sanjay.kulkarni@livertech.com,https://linkedin.com/in/sanjaykulkarni
+Dr. Tanvi Deshpande,Research Associate,UniHealth,London,London,Grant Funded,No,Yes,Yes,Organ-on-Chip,tanvi.deshpande@unihealth.ac.uk,https://linkedin.com/in/tanvideshpande
+Dr. Rohit Saxena,Principal Scientist,GenCell,Bay Area,Bay Area,Series B,Yes,Yes,Yes,Investigative Toxicology,rohit.saxena@gencell.com,https://linkedin.com/in/rohitsaxena
+Dr. Isha Kulkarni,Senior Scientist,BioPharmaX,Boston,Cambridge MA,Series B,Yes,Yes,Yes,Hepatic Spheroids,isha.kulkarni@biopharmax.com,https://linkedin.com/in/ishakulkarni
+Dr. Prateek Jain,VP Preclinical Research,OncoNova,Bay Area,Bay Area,Series C,Yes,Yes,Yes,Drug-Induced Liver Injury,prateek.jain@onconova.com,https://linkedin.com/in/prateekjain
+Dr. Swati Kulkarni,Research Associate,MedUni,Singapore,Singapore,Grant Funded,No,Yes,No,,swati.kulkarni@meduni.edu.sg,https://linkedin.com/in/swatikulkarni
+Dr. Ashish Pandey,Director of Toxicology,BioCore,Basel,Basel,Series B,Yes,Yes,Yes,Drug Safety Evaluation,ashish.pandey@biocore.ch,https://linkedin.com/in/ashishpandey
+Dr. Pallavi Joshi,Senior Scientist,NeuroGen,Boston,Cambridge MA,Series C,Yes,Yes,Yes,3D Cell Culture,pallavi.joshi@neurogen.com,https://linkedin.com/in/pallavijoshi
+Dr. Nitin Chawla,Junior Scientist,EarlyBio,Remote (Texas),New York,No Funding,No,No,No,,nitin.chawla@earlybio.com,https://linkedin.com/in/nitinchawla
+Dr. Meera Kulkarni,Principal Scientist,PharmaNext,Boston,Boston,Series B,Yes,Yes,Yes,Investigative Toxicology,meera.kulkarni@pharmanext.com,https://linkedin.com/in/meerakulkarni
+Dr. Harish Iyer,Senior Scientist,LiverTech,Bay Area,Boston,Series A,Yes,No,Yes,Drug-Induced Liver Injury,harish.iyer@livertech.com,https://linkedin.com/in/harishiyer
+Dr. Rina Shah,Research Associate,UniHealth,London,London,Grant Funded,No,Yes,Yes,Organ-on-Chip,rina.shah@unihealth.ac.uk,https://linkedin.com/in/rinashah
+Dr. Akash Malhotra,Director of Safety Assessment,GenCell,Bay Area,Bay Area,Series B,Yes,Yes,Yes,3D Cell Culture,akash.malhotra@gencell.com,https://linkedin.com/in/akashmalhotra
+Dr. Sonal Mehta,Senior Scientist,BioPharmaX,Boston,Cambridge MA,Series B,Yes,Yes,Yes,Hepatic Spheroids,sonal.mehta@biopharmax.com,https://linkedin.com/in/sonalmehta
+Dr. Uday Kulkarni,Principal Scientist,NeuroGen,Boston,Cambridge MA,Series C,Yes,Yes,Yes,Investigative Toxicology,uday.kulkarni@neurogen.com,https://linkedin.com/in/udaykulkarni
+Dr. Rohan Joshi,Junior Scientist,EarlyBio,New York,New York,No Funding,No,No,No,,rohan.joshi@earlybio.com,https://linkedin.com/in/rohanjoshi
+Dr. Shalini Desai,Research Associate,MedUni,Singapore,Singapore,Grant Funded,No,Yes,Yes,Organ-on-Chip,shalini.desai@meduni.edu.sg,https://linkedin.com/in/shalinidesai
+Dr. Aman Srivastava,Director of Toxicology,HelixBio,Boston,Cambridge MA,Series B,Yes,Yes,Yes,Drug-Induced Liver Injury,aman.srivastava@helixbio.com,https://linkedin.com/in/amansrivastava
+Dr. Riya Chatterjee,Head of Preclinical Safety,NeoCure,Bay Area,Bay Area,Series A,Yes,Yes,No,,riya.chatterjee@neocure.com,https://linkedin.com/in/riyachatterjee
+Dr. Suresh Pillai,Senior Scientist,HepatoTech,New York,Boston,Seed,Yes,No,Yes,Hepatic Spheroids,suresh.pillai@hepatotech.com,https://linkedin.com/in/sureshpillai
+Dr. Nikhil Bansal,VP Preclinical Research,AxonBio,Boston,Cambridge MA,Series C,Yes,Yes,Yes,3D Cell Culture,nikhil.bansal@axonbio.com,https://linkedin.com/in/nikhilbansal
+Dr. Farah Khan,Junior Scientist,VitaLabs,Remote (Texas),New York,No Funding,No,No,No,,farah.khan@vitalabs.com,https://linkedin.com/in/farahkhan
+Dr. Manish Oberoi,Principal Scientist,OrionPharma,Boston,Boston,Series B,Yes,Yes,Yes,Investigative Toxicology,manish.oberoi@orionpharma.com,https://linkedin.com/in/manishoberoi
+Dr. Leena Menon,Senior Scientist,CellAxis,Bay Area,Bay Area,Series A,Yes,No,Yes,Organ-on-Chip,leena.menon@cellaxis.com,https://linkedin.com/in/leenamenon
+Dr. Kunal Malhotra,Research Associate,GlobalHealth Uni,London,London,Grant Funded,No,Yes,Yes,3D Cell Culture,kunal.malhotra@ghuni.ac.uk,https://linkedin.com/in/kunalmalhotra
+Dr. Tobias Fischer,Director of Safety Assessment,RheinBio,Basel,Basel,Series B,Yes,Yes,Yes,Drug Safety Evaluation,tobias.fischer@rheinbio.ch,https://linkedin.com/in/tobiasfischer
+Dr. Mei Lin,Postdoctoral Researcher,AsiaMed Institute,Singapore,Singapore,Grant Funded,No,Yes,No,,mei.lin@asiamed.edu.sg,https://linkedin.com/in/meilin
+Dr. Prakash Kuldeep,Senior Scientist,HelixBio,Boston,Cambridge MA,Series B,Yes,Yes,Yes,Hepatic Spheroids,prakash.kuldeep@helixbio.com,https://linkedin.com/in/prakashkuldeep
+Dr. Sonali Ghosh,Junior Scientist,VitaLabs,New York,New York,No Funding,No,No,No,,sonali.ghosh@vitalabs.com,https://linkedin.com/in/sonalighosh
+Dr. Harpreet Singh,Principal Scientist,OrionPharma,Boston,Boston,Series B,Yes,Yes,Yes,3D Cell Culture,harpreet.singh@orionpharma.com,https://linkedin.com/in/harpreetsingh
+Dr. Jaya Kulkarni,Senior Scientist,HepatoTech,Bay Area,Boston,Series A,Yes,No,Yes,Drug-Induced Liver Injury,jaya.kulkarni@hepatotech.com,https://linkedin.com/in/jayakulkarni
+Dr. Marcus Weber,Research Associate,EuroHealth Uni,Berlin,Berlin,Grant Funded,No,Yes,Yes,Organ-on-Chip,marcus.weber@ehu.de,https://linkedin.com/in/marcusweber
+Dr. Alina Petrova,Senior Scientist,AxonBio,Boston,Cambridge MA,Series C,Yes,Yes,Yes,Investigative Toxicology,alina.petrova@axonbio.com,https://linkedin.com/in/alinapetrova
+Dr. Rohini Deshmukh,Director of Toxicology,CellAxis,Bay Area,Bay Area,Series B,Yes,Yes,Yes,Drug-Induced Liver Injury,rohini.deshmukh@cellaxis.com,https://linkedin.com/in/rohinideshmukh
+Dr. Daniel Cooper,Principal Scientist,NeoCure,New York,Bay Area,Series A,Yes,Yes,Yes,3D Cell Culture,daniel.cooper@neocure.com,https://linkedin.com/in/danielcooper
+Dr. Kavita Arora,Senior Scientist,HelixBio,Boston,Cambridge MA,Series B,Yes,Yes,Yes,Hepatic Spheroids,kavita.arora@helixbio.com,https://linkedin.com/in/kavitaarora
+Dr. Yash Malviya,Junior Scientist,VitaLabs,Remote (Texas),New York,No Funding,No,No,No,,yash.malviya@vitalabs.com,https://linkedin.com/in/yashmalviya
+Dr. Felipe Gomez,Research Associate,LatAm Bio Uni,Sao Paulo,Sao Paulo,Grant Funded,No,Yes,Yes,Organ-on-Chip,felipe.gomez@labu.br,https://linkedin.com/in/felipegomez
+Dr. Sunita Narayan,Senior Scientist,OrionPharma,Boston,Boston,Series B,Yes,Yes,Yes,Investigative Toxicology,sunita.narayan@orionpharma.com,https://linkedin.com/in/sunitanarayan
+Dr. Oliver Grant,Director of Safety Assessment,AxonBio,Bay Area,Bay Area,Series C,Yes,Yes,Yes,Drug Safety Evaluation,oliver.grant@axonbio.com,https://linkedin.com/in/olivergrant
+Dr. Snehal Patil,Principal Scientist,HepatoTech,Bay Area,Boston,Series A,Yes,Yes,Yes,3D Cell Culture,snehal.patil@hepatotech.com,https://linkedin.com/in/snehalpatil
+Dr. Wei Zhang,Senior Scientist,CellAxis,Singapore,Singapore,Series B,Yes,No,Yes,Hepatic Spheroids,wei.zhang@cellaxis.com,https://linkedin.com/in/weizhang
+Dr. Natasha Brown,Research Associate,GlobalHealth Uni,London,London,Grant Funded,No,Yes,Yes,Organ-on-Chip,natasha.brown@ghuni.ac.uk,https://linkedin.com/in/natashabrown
+Dr. Ivan Novak,Principal Scientist,RheinBio,Basel,Basel,Series B,Yes,Yes,Yes,Investigative Toxicology,ivan.novak@rheinbio.ch,https://linkedin.com/in/ivannovak
+Dr. Priti Kulkarni,Senior Scientist,HelixBio,Boston,Cambridge MA,Series B,Yes,Yes,Yes,Drug-Induced Liver Injury,priti.kulkarni@helixbio.com,https://linkedin.com/in/pritikulkarni
+Dr. Samuel Wright,VP Preclinical Research,NeoCure,Bay Area,Bay Area,Series C,Yes,Yes,Yes,3D Cell Culture,samuel.wright@neocure.com,https://linkedin.com/in/samuelwright
+Dr. Ayesha Rahman,Junior Scientist,VitaLabs,New York,New York,No Funding,No,No,No,,ayesha.rahman@vitalabs.com,https://linkedin.com/in/ayesrahman
+Dr. Jorge Alvarez,Senior Scientist,AxonBio,Boston,Cambridge MA,Series C,Yes,Yes,Yes,Investigative Toxicology,jorge.alvarez@axonbio.com,https://linkedin.com/in/jorgealvarez
+Dr. Madhav Joshi,Principal Scientist,OrionPharma,Boston,Boston,Series B,Yes,Yes,Yes,Hepatic Spheroids,madhav.joshi@orionpharma.com,https://linkedin.com/in/madhavjoshi
+Dr. Elisa Romano,Research Associate,EuroHealth Uni,Rome,Rome,Grant Funded,No,Yes,Yes,Organ-on-Chip,elisa.romano@ehu.it,https://linkedin.com/in/elisaromano
+Dr. Peter Lawson,Director of Toxicology,CellAxis,Bay Area,Bay Area,Series B,Yes,Yes,Yes,Drug-Induced Liver Injury,peter.lawson@cellaxis.com,https://linkedin.com/in/peterlawson
+Dr. Harini Subramaniam,Senior Scientist,HepatoTech,Boston,Boston,Series A,Yes,Yes,Yes,3D Cell Culture,harini.subramaniam@hepatotech.com,https://linkedin.com/in/harinisubramaniam
+Dr. Lucas Martin,Principal Scientist,HelixBio,Boston,Cambridge MA,Series B,Yes,Yes,Yes,Investigative Toxicology,lucas.martin@helixbio.com,https://linkedin.com/in/lucasmartin
+Dr. Fatima Noor,Research Associate,AsiaMed Institute,Singapore,Singapore,Grant Funded,No,Yes,No,,fatima.noor@asiamed.edu.sg,https://linkedin.com/in/fatimanoor
+Dr. Karthik Ramasamy,Senior Scientist,AxonBio,Bay Area,Bay Area,Series C,Yes,Yes,Yes,Hepatic Spheroids,karthik.ramasamy@axonbio.com,https://linkedin.com/in/karthikramasamy
+Dr. Anil Shetty,Director of Safety Assessment,OrionPharma,Boston,Boston,Series B,Yes,Yes,Yes,Drug Safety Evaluation,anil.shetty@orionpharma.com,https://linkedin.com/in/anilshetty
+Dr. Julia Meyer,Senior Scientist,RheinBio,Basel,Basel,Series B,Yes,Yes,Yes,3D Cell Culture,julia.meyer@rheinbio.ch,https://linkedin.com/in/juliameyer
+Dr. Naveen Rao,Principal Scientist,CellAxis,Bay Area,Bay Area,Series B,Yes,Yes,Yes,Investigative Toxicology,naveen.rao@cellaxis.com,https://linkedin.com/in/naveenrao
+Dr. Olivia Scott,Research Associate,GlobalHealth Uni,London,London,Grant Funded,No,Yes,Yes,Organ-on-Chip,olivia.scott@ghuni.ac.uk,https://linkedin.com/in/oliviascott
+Dr. Sandeep Kulkarni,Senior Scientist,HepatoTech,Bay Area,Boston,Series A,Yes,Yes,Yes,Drug-Induced Liver Injury,sandeep.kulkarni@hepatotech.com,https://linkedin.com/in/sandeepkulkarni
+Dr. Thomas Klein,Director of Toxicology,AxonBio,Boston,Cambridge MA,Series C,Yes,Yes,Yes,Investigative Toxicology,thomas.klein@axonbio.com,https://linkedin.com/in/thomasklein
+Dr. Rupal Shah,Principal Scientist,HelixBio,Boston,Cambridge MA,Series B,Yes,Yes,Yes,3D Cell Culture,rupal.shah@helixbio.com,https://linkedin.com/in/rupalshah
+Dr. Imran Qureshi,Senior Scientist,NeoCure,Bay Area,Bay Area,Series A,Yes,Yes,Yes,Hepatic Spheroids,imran.qureshi@neocure.com,https://linkedin.com/in/imranqureshi
+Dr. Raghav Menon,Director of Toxicology,NovaBioSystems,Boston,Cambridge MA,Series B,Yes,Yes,Yes,Drug-Induced Liver Injury,raghav.menon@novabiosystems.com,https://linkedin.com/in/raghavmenon
+Dr. Elena Petrova,Senior Scientist,BioAxis Labs,Basel,Basel,Series B,Yes,Yes,Yes,3D Cell Culture,elena.petrova@bioaxislabs.ch,https://linkedin.com/in/elenapetrova
+Dr. Arvind Kulkarni,Principal Scientist,HepatoCore,Bay Area,Boston,Series A,Yes,Yes,Yes,Hepatic Spheroids,arvind.kulkarni@hepatocore.com,https://linkedin.com/in/arvindkulkarni
+Dr. Michelle Turner,Research Associate,WestHealth University,San Diego,San Diego,Grant Funded,No,Yes,Yes,Organ-on-Chip,michelle.turner@westhealth.edu,https://linkedin.com/in/michelleturner
+Dr. Yusuf Ali,Junior Scientist,VitaLabs,Remote (Florida),New York,No Funding,No,No,No,,yusuf.ali@vitalabs.com,https://linkedin.com/in/yusufali
+Dr. Keshav Nambiar,Senior Scientist,OmniHep Labs,Boston,Cambridge MA,Series A,Yes,Yes,Yes,Drug-Induced Liver Injury,keshav.nambiar@omnihep.com,https://linkedin.com/in/keshavnambiar
